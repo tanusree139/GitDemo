@@ -22,7 +22,7 @@
   <!-- ============================= -->
   <profiles>
 
-    <!-- 🔹 Regression Suite -->
+    <!-- Regression Suite -->
     <profile>
       <id>Regression</id>
       <build>
@@ -70,7 +70,7 @@
       </build>
     </profile>
 
-    <!-- 🔹 Purchase Suite -->
+    <!-- Purchase Suite -->
     <profile>
       <id>Purchase</id>
       <build>
@@ -116,7 +116,7 @@
       </build>
     </profile>
 
-    <!-- 🔹 Error Validation Suite -->
+    <!-- Error Validation Suite -->
     <profile>
       <id>errorValidation</id>
       <build>
