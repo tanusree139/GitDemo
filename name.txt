@@ -1,2 +1,3 @@
 this is name file
 this changes are under feature1 branch
+this is under main branch - checking merge conflict- main branch main branch
